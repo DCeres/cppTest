@@ -7,4 +7,4 @@ test:
       ./helloTest
 
 clean:
-      $(RM) hello
+      $(RM) hello helloTest
